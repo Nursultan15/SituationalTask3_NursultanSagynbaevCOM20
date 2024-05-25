@@ -11,6 +11,10 @@ Lambda Operations:
 
 Lambda functions, sometimes referred to as anonymous functions, are handy little tools for quickly building short, one-time functions. We'll examine lambda function grammar and usage, as well as their benefits and uses in Python programming. We'll show you how to combine lambda functions with higher-order functions like reduce, filter, and map to improve readability and streamline code with video courses and examples. Tests will help to clarify concepts and promote practical application.
 
+Arrays
+
+In Python, arrays are essential for storing and manipulating data. We'll look at Python's array module, which offers an organized and more effective method than lists for working with homogeneous data collections. We'll go over subjects including creating, manipulating, slicing, sorting, and searching through video lessons. Tests of comprehension and problem-solving abilities will be administered through quizzes, while examples will highlight practical applications of arrays.
+
 
 
 
