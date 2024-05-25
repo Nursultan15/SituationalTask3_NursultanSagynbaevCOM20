@@ -7,7 +7,8 @@ link to My Presentation :https://www.canva.com/design/DAGFr92-Hdo/tYo6ymoshsQr_m
 
 ![Снимок экрана (86)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/7cd51556-0dcf-49f7-ab89-a196b69979c6)
 ![Снимок экрана (87)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/150fd6a4-5e41-41ed-8aae-0787f9da4902)
-![Снимок экрана (88)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/95cf2438-4ed4-4133-b9b2-32ffe77efb6c)
+![Снимок экрана (107)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/fbbc193b-f1c6-4783-b7a7-01e6920e72ef)
+
 ![Снимок экрана (89)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/97185609-9608-4905-81e3-611a6d2e64f3)
 ![Снимок экрана (90)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/6e1471cf-2913-4b48-baae-3d78b015b540)
 ![Снимок экрана (91)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/b6606309-9bf0-4aa3-ac09-431aa169e74d)
