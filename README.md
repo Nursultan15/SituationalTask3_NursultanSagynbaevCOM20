@@ -2,7 +2,7 @@
 
 Hello . My presentation will help novice programmers practice the Python language subjects : Variables , Loops and Functions .
 
-link to My Presentation :
+link to My Presentation :https://www.canva.com/design/DAGFr92-Hdo/tYo6ymoshsQr_mXYK_Xovg/edit?utm_content=DAGFr92-Hdo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ![Снимок экрана (86)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/7cd51556-0dcf-49f7-ab89-a196b69979c6)
