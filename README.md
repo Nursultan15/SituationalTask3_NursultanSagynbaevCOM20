@@ -4,6 +4,16 @@ Hello . My presentation will help novice programmers practice the Python languag
 
 link to My Presentation :https://www.canva.com/design/DAGFr92-Hdo/tYo6ymoshsQr_mXYK_Xovg/edit?utm_content=DAGFr92-Hdo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+We'll discuss two essential ideas in Python programming in this talk: arrays and lambda functions. These subjects are fundamental to any Python developer, offering strong instruments for crafting clear and effective code.
+
+Lambda Operations:
+
+
+Lambda functions, sometimes referred to as anonymous functions, are handy little tools for quickly building short, one-time functions. We'll examine lambda function grammar and usage, as well as their benefits and uses in Python programming. We'll show you how to combine lambda functions with higher-order functions like reduce, filter, and map to improve readability and streamline code with video courses and examples. Tests will help to clarify concepts and promote practical application.
+
+
+
+
 
 ![Снимок экрана (86)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/7cd51556-0dcf-49f7-ab89-a196b69979c6)
 ![Снимок экрана (87)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/150fd6a4-5e41-41ed-8aae-0787f9da4902)
