@@ -1,6 +1,6 @@
 # SituationalTask3_NursultanSagynbaevCOM20 
 
-Hello . My presentation will help novice programmers practice the Python language subjects : Variables , Loops and Functions .
+Hello . My presentation will help novice programmers practice the Python language subjects : Lambda Functions and Arrays.
 
 link to My Presentation :https://www.canva.com/design/DAGFr92-Hdo/tYo6ymoshsQr_mXYK_Xovg/edit?utm_content=DAGFr92-Hdo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
