@@ -1,6 +1,6 @@
 # SituationalTask3_NursultanSagynbaevCOM20 
 
-
+ 
 
 
 ![Снимок экрана (86)](https://github.com/Nursultan15/SituationalTask3_NursultanSagynbaevCOM20/assets/73534336/7cd51556-0dcf-49f7-ab89-a196b69979c6)
