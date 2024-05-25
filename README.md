@@ -18,11 +18,17 @@ In Python, arrays are essential for storing and manipulating data. We'll look at
 
 Project Objectives:
 
+
 1)Learn everything there is to know about lambda functions and how to use them in Python programming.
+
 2)Discover the subtleties of creating, manipulating, and optimizing arrays in Python.
+
 3)Use real-world examples and exercises to illustrate concepts and reinforce learning.
+
 4)Gain expertise in using arrays and lambda functions to effectively handle common programming challenges.
+
 5)Use lambda functions and arrays in a variety of programming jobs and projects to promote experimentation and creativity.
+
 
 
 Gaining proficiency with Python's lambda functions and arrays can improve your coding abilities and open up new avenues for creating readable, scalable, and effective code. Let's get started and make the most of Python's capabilities!
